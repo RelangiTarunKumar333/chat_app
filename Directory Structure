@@ -1,0 +1,8 @@
+chat-companion/
+├── images/
+├── videos/
+├── README.md
+├── .gitignore
+├── LICENSE
+├── requirements.txt
+└── app.py
